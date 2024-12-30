@@ -1,0 +1,10 @@
+{
+  "[python]": {
+    "editor.formatOnSave": true
+    // "editor.defaultFormatter": "eeyore.yapf"
+  },
+  "[cpp]": {
+    "editor.formatOnSave": true
+    // "editor.defaultFormatter": "xaver.clang-format"
+  }
+}

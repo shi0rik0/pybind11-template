@@ -1,0 +1,4 @@
+-I./pybind11/include
+-std=c++17
+-Wall
+-Wextra
